@@ -29,5 +29,5 @@ TSMC 2023.12 設備工程師 32
 
 ## 文件連結
 
-[填寫模板](公司/TEMPLATE.md)
-[文件目錄](文件/README.md)
+- [填寫模板](公司/TEMPLATE.md)
+- [文件目錄](文件/README.md)
